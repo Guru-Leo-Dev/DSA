@@ -1,4 +1,3 @@
-package arrays;
 import java.util.*;
 class KadaneAlgorithmSolution {
    // Function to find maximum sum of subarrays

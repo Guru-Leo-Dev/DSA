@@ -1,4 +1,3 @@
-package arrays;
 import java.util.*;
 
 // Class containing Pascal's Triangle generation logic

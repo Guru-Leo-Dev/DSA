@@ -1,4 +1,3 @@
-package arrays;
 import java.util.*;
 class SortAnArraySolution {
    // Function to sort the array containing only 0s, 1s and 2s
