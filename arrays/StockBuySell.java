@@ -31,10 +31,3 @@ public class StockBuySell {
         System.out.println("Max Profit: " + sol.stockbuySell(prices));
     }
 }
-class Solution {
-   
-}
-
-// Driver class
-class Main {
-}
